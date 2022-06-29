@@ -1,8 +1,8 @@
 # FA³ST Package Explorer Converter
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./misc/images/Fa3st_negativ.png">
-  <source media="(prefers-color-scheme: light)" srcset="./misc/images/Fa3st_positiv.png">
-  <img alt="Shows wether the light or dark version of the FA³ST Logo depending on color-scheme preferences" src="./misc/images/Fa3st_positiv.png">
+<source media="(prefers-color-scheme: dark)" srcset="./misc/images/Fa3st_negativ.png">
+<source media="(prefers-color-scheme: light)" srcset="./misc/images/Fa3st_positiv.png">
+<img alt="Shows wether the light or dark version of the FA³ST Logo depending on color-scheme preferences" src="./misc/images/Fa3st_positiv.png">
 </picture>
 
 Converts AAS JSON files created with/exported from AASX Package Explorer to a FA³ST-compatible version.
